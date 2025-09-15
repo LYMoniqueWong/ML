@@ -1,0 +1,1 @@
+This repository contains machine learning practice notebooks. Topics covered include linear regression, gradient descent, logistic regression, decision trees, support vector machines (SVM), K-fold cross-validation, KNN classification, feature engineering, etc. It also includes several small projects to strengthen the understanding of key ML concepts.
